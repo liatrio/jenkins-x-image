@@ -1,1 +1,4 @@
 logstash:2.3.0
+greenballs
+http_request
+pipeline-utility-steps
